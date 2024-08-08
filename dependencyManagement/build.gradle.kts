@@ -12,7 +12,7 @@ val DEPENDENCY_BOMS = listOf(
   "com.google.guava:guava-bom:33.2.1-jre",
   "com.linecorp.armeria:armeria-bom:1.29.4",
   "org.junit:junit-bom:5.10.3",
-  "io.grpc:grpc-bom:1.65.1",
+  "io.grpc:grpc-bom:1.66.0",
   "io.opentelemetry.instrumentation:opentelemetry-instrumentation-bom-alpha:2.6.0-alpha",
   "org.testcontainers:testcontainers-bom:1.20.1"
 )
@@ -22,7 +22,7 @@ val autoValueVersion = "1.11.0"
 val errorProneVersion = "2.29.2"
 val prometheusVersion = "0.16.0"
 val mockitoVersion = "4.11.0"
-val slf4jVersion = "2.0.14"
+val slf4jVersion = "2.0.15"
 val semConvVersion = "1.26.0-alpha"
 
 val CORE_DEPENDENCIES = listOf(
